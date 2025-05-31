@@ -1,0 +1,32 @@
+body {
+    background-color: #000;
+    color: #0f0;
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+#terminal {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    white-space: pre;
+    font-size: 1.5em;
+}
+
+.projectile {
+    color: #f00;
+}
+
+.border {
+    color: #0f0;
+}
+
+.info {
+    color: #0ff;
+}
+
+.message {
+    color: rgb(209, 28, 4);
+}
