@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Langues</title>
+    <link rel="stylesheet" href="../main.css">
+    <style>
+        .header-image {
+            width: 100%;
+            max-height: 300px;
+            object-fit: cover;
+            border-radius: 10px;
+            margin: 20px 0;
+            filter: brightness(0.95) contrast(1.05);
+        }
+        
+        
+        @media (max-width: 768px) {
+            .header-image {
+                max-height: 200px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Cours de Langues</h1>
+            <img src="im.png" class="header-image" style="margin-top: 0px;">
+            <nav class="semestre-nav">
+                <a href="../main.html" class="back-link">← Retour à l'acceuil</a>
+            </nav>
+        </header>
+ 
+        <main>
+            <h3 class="modules"> Langues :</h3>
+            <section class="matieres-container">
+
+                <div class="matiere">
+                    <div class="matiere-header">
+                        <h2>Anglais</h2>
+                        <span class="toggle-btn">+</span>
+                    </div>
+                    <div class="sous-menu">
+                        <a href="cours/pt/cours.html" class="sous-option">Cours</a>
+                    </div>
+                </div>
+
+                <div class="matiere">
+                    <div class="matiere-header">
+                        <h2>Espagnol</h2>
+                        <span class="toggle-btn">+</span>
+                    </div>
+                    <div class="sous-menu">
+                        <a href="cours/es/cours.html" class="sous-option">Cours</a>
+                    </div>
+                </div>
+
+
+                <div class="matiere">
+                    <div class="matiere-header">
+                        <h2>Allemand</h2>
+                        <span class="toggle-btn">+</span>
+                    </div>
+                    <div class="sous-menu">
+                        <a href="cours/de/cours.html" class="sous-option">Cours</a>
+                    </div>
+                </div>
+
+                <div class="matiere">
+                    <div class="matiere-header">
+                        <h2>Portugais</h2>
+                        <span class="toggle-btn">+</span>
+                    </div>
+                    <div class="sous-menu">
+                        <a href="cours/pt/cours.html" class="sous-option">Cours</a>
+                    </div>
+                </div>
+
+                <div class="matiere">
+                    <div class="matiere-header">
+                        <h2>Russe</h2>
+                        <span class="toggle-btn">+</span>
+                    </div>
+                    <div class="sous-menu">
+                        <a href="cours/ru/cours.html" class="sous-option">Cours</a>
+                    </div>
+                </div>
+
+            </section>
+        </main>
+
+        <footer>
+            <p>ENSEIRB-MATMECA, Informatique, 2024-2025</p>
+            <p> Site crée par <a href="https://github.com/adamelm5">el-mouedden-adam</a></p>
+        </footer>
+    </div>
+
+    <script src="../main.js"></script>
+</body>
+</html>

@@ -1,0 +1,301 @@
+.
+├── main.css
+├── main.html
+├── main.js
+├── pdfs
+├── rien.css
+├── rien.html
+├── s5
+│   ├── cours
+│   │   ├── if101
+│   │   │   ├── cours.html
+│   │   │   └── cours.pdf
+│   │   ├── if102
+│   │   │   ├── cours.html
+│   │   │   └── cours.pdf
+│   │   ├── if104
+│   │   │   ├── cours1.html
+│   │   │   ├── cours2.html
+│   │   │   ├── cours3.html
+│   │   │   ├── cours4.html
+│   │   │   ├── cours5.html
+│   │   │   ├── cours.html
+│   │   │   └── pdfs
+│   │   │       ├── cours1.pdf
+│   │   │       ├── cours2.pdf
+│   │   │       ├── cours3.pdf
+│   │   │       ├── cours4.pdf
+│   │   │       └── cours5.pdf
+│   │   ├── if107
+│   │   │   ├── cours1.html
+│   │   │   ├── cours1.pdf
+│   │   │   ├── cours2.html
+│   │   │   ├── cours3.html
+│   │   │   ├── cours4.html
+│   │   │   ├── cours5.html
+│   │   │   ├── cours6.html
+│   │   │   ├── cours7.html
+│   │   │   ├── cours8.html
+│   │   │   ├── cours.html
+│   │   │   └── pdfs
+│   │   │       ├── cours1.pdf
+│   │   │       ├── cours2.pdf
+│   │   │       ├── cours3.pdf
+│   │   │       ├── cours4.pdf
+│   │   │       ├── cours5.pdf
+│   │   │       ├── cours6.pdf
+│   │   │       ├── cours7.pdf
+│   │   │       ├── cours8.pdf
+│   │   │       └── td2.pdf
+│   │   ├── is101
+│   │   │   ├── cours.html
+│   │   │   └── is101_cours.pdf
+│   │   ├── is102
+│   │   │   └── 1_Introduction_24oct - 1_Introduction_24oct2024.pdf
+│   │   ├── is103
+│   │   │   ├── cours.html
+│   │   │   └── cours.pdf
+│   │   └── it102
+│   │       ├── cours1.html
+│   │       ├── cours2.html
+│   │       ├── cours3.html
+│   │       ├── cours4.html
+│   │       ├── cours5.html
+│   │       ├── cours6.html
+│   │       ├── cours7.html
+│   │       ├── cours8.html
+│   │       ├── cours.html
+│   │       └── pdfs
+│   │           ├── cours1.pdf
+│   │           ├── cours2.pdf
+│   │           ├── cours3.pdf
+│   │           ├── cours4.pdf
+│   │           ├── cours5.pdf
+│   │           ├── cours6.pdf
+│   │           ├── cours7.pdf
+│   │           └── cours8.pdf
+│   ├── exams
+│   │   ├── is101
+│   │   │   ├── exam1_corrige.html
+│   │   │   ├── exam1.html
+│   │   │   ├── exam2_corrige.html
+│   │   │   ├── exam2.html
+│   │   │   ├── is101_exams.html
+│   │   │   └── pdfs
+│   │   │       ├── exam1_corrige1.pdf
+│   │   │       ├── exam1_corrige2.pdf
+│   │   │       └── exam1_corrige3.jpg
+│   │   └── is103
+│   │       ├── exam1.html
+│   │       ├── exams.html
+│   │       └── pdfs
+│   │           └── exam1.pdf
+│   ├── im5.png
+│   ├── s5.html
+│   └── tds
+│       ├── if101
+│       │   ├── pdfs
+│       │   │   ├── td1c.pdf
+│       │   │   ├── td1.pdf
+│       │   │   ├── td2c.pdf
+│       │   │   ├── td2.pdf
+│       │   │   ├── td3c.pdf
+│       │   │   ├── td3.pdf
+│       │   │   ├── td4c.pdf
+│       │   │   ├── td4.pdf
+│       │   │   ├── td5c.pdf
+│       │   │   ├── td5.pdf
+│       │   │   ├── td6c.pdf
+│       │   │   ├── td6.pdf
+│       │   │   └── td7.pdf
+│       │   ├── td1c.html
+│       │   ├── td1.html
+│       │   ├── td2c.html
+│       │   ├── td2.html
+│       │   ├── td3c.html
+│       │   ├── td3.html
+│       │   ├── td4c.html
+│       │   ├── td4.html
+│       │   ├── td5c.html
+│       │   ├── td5.html
+│       │   ├── td6c.html
+│       │   ├── td6.html
+│       │   ├── td7c.html
+│       │   ├── td7.html
+│       │   └── tds.html
+│       ├── if102
+│       │   ├── pdfs
+│       │   │   ├── td1c.pdf
+│       │   │   ├── td1.pdf
+│       │   │   ├── td2c.pdf
+│       │   │   ├── td2.pdf
+│       │   │   ├── td3c.pdf
+│       │   │   ├── td3.pdf
+│       │   │   ├── td4c.pdf
+│       │   │   ├── td4.pdf
+│       │   │   ├── td5c.pdf
+│       │   │   ├── td5.pdf
+│       │   │   ├── td6c.html
+│       │   │   ├── td6c.pdf
+│       │   │   ├── td6.pdf
+│       │   │   └── td7.pdf
+│       │   ├── td1c.html
+│       │   ├── td1.html
+│       │   ├── td2c.html
+│       │   ├── td2.html
+│       │   ├── td3c.html
+│       │   ├── td3.html
+│       │   ├── td4c.html
+│       │   ├── td4.html
+│       │   ├── td5c.html
+│       │   ├── td5.html
+│       │   ├── td6c.html
+│       │   ├── td6.html
+│       │   ├── td7c.html
+│       │   ├── td7.html
+│       │   └── tds.html
+│       ├── if107
+│       │   ├── pdfs
+│       │   │   ├── td1.pdf
+│       │   │   ├── td2.pdf
+│       │   │   ├── td3.pdf
+│       │   │   ├── td4.pdf
+│       │   │   ├── td5.pdf
+│       │   │   └── td6.pdf
+│       │   ├── td1.html
+│       │   ├── td2.html
+│       │   ├── td3.html
+│       │   ├── td4.html
+│       │   ├── td5.html
+│       │   ├── td6.html
+│       │   └── tds.html
+│       ├── is101
+│       │   ├── is101_tds.html
+│       │   ├── pdfs
+│       │   │   ├── is101_td1.pdf
+│       │   │   ├── is101_td2.pdf
+│       │   │   ├── is101_td3.pdf
+│       │   │   └── is101_td4.pdf
+│       │   ├── td1.html
+│       │   ├── td2.html
+│       │   ├── td3.html
+│       │   └── td4.html
+│       └── it102
+│           ├── pdfs
+│           │   ├── td1.pdf
+│           │   ├── td2c.pdf
+│           │   ├── td2.pdf
+│           │   ├── td3c.pdf
+│           │   ├── td3.pdf
+│           │   ├── td4c.pdf
+│           │   ├── td4.pdf
+│           │   ├── td5c.pdf
+│           │   ├── td5.pdf
+│           │   ├── td6c.pdf
+│           │   ├── td6.pdf
+│           │   ├── td7c.pdf
+│           │   ├── td7.pdf
+│           │   └── td8.pdf
+│           ├── td1c.html
+│           ├── td1.html
+│           ├── td2c.html
+│           ├── td2.html
+│           ├── td3c.html
+│           ├── td3.html
+│           ├── td4c.html
+│           ├── td4.html
+│           ├── td5c.html
+│           ├── td5.html
+│           ├── td6c.html
+│           ├── td6.html
+│           ├── td7c.html
+│           ├── td7.html
+│           └── tds.html
+├── s6
+│   ├── cours
+│   │   ├── if106
+│   │   │   ├── cours2015.html
+│   │   │   ├── cours2024.html
+│   │   │   ├── cours.html
+│   │   │   └── pdfs
+│   │   │       ├── cours2015.html
+│   │   │       ├── cours2015.pdf
+│   │   │       ├── cours2024.html
+│   │   │       ├── cours2024.pdf
+│   │   │       └── cours.html
+│   │   ├── if114
+│   │   │   ├── cours1.html
+│   │   │   ├── cours2.html
+│   │   │   ├── cours3.html
+│   │   │   ├── cours4.html
+│   │   │   ├── cours5.html
+│   │   │   ├── cours6.html
+│   │   │   ├── cours7.html
+│   │   │   ├── cours.html
+│   │   │   └── pdfs
+│   │   │       ├── cours1.pdf
+│   │   │       ├── cours2.pdf
+│   │   │       ├── cours3.pdf
+│   │   │       ├── cours4.pdf
+│   │   │       ├── cours5.pdf
+│   │   │       ├── cours6.pdf
+│   │   │       └── cours7.pdf
+│   │   ├── if127
+│   │   │   ├── cours1.html
+│   │   │   ├── cours2.html
+│   │   │   ├── cours3.html
+│   │   │   ├── cours4.html
+│   │   │   ├── cours.html
+│   │   │   └── pdfs
+│   │   │       ├── cours1.pdf
+│   │   │       ├── cours2.pdf
+│   │   │       ├── cours3.pdf
+│   │   │       └── cours4.pdf
+│   │   └── is104
+│   │       ├── cours1.html
+│   │       ├── cours2.html
+│   │       ├── cours3.html
+│   │       ├── cours4.html
+│   │       ├── cours5.html
+│   │       ├── cours6.html
+│   │       ├── cours.html
+│   │       └── pdfs
+│   │           ├── cours1.pdf
+│   │           ├── cours2.pdf
+│   │           ├── cours3.pdf
+│   │           ├── cours4.pdf
+│   │           ├── cours5.pdf
+│   │           └── cours6.pdf
+│   ├── exams
+│   │   ├── if127
+│   │   └── is101
+│   │       ├── exam1_corrige.html
+│   │       ├── exam1.html
+│   │       ├── exam2_corrige.html
+│   │       ├── exam2.html
+│   │       ├── is101_exams.html
+│   │       └── pdfs
+│   │           ├── exam1_corrige1.pdf
+│   │           ├── exam1_corrige2.pdf
+│   │           └── exam1_corrige3.jpg
+│   ├── im6.png
+│   ├── s6.html
+│   └── tds
+│       ├── if106
+│       │   ├── pdfs
+│       │   ├── td1.html
+│       │   └── tds.html
+│       └── is101
+│           ├── is101_tds.html
+│           ├── pdfs
+│           │   ├── is101_td1.pdf
+│           │   ├── is101_td2.pdf
+│           │   ├── is101_td3.pdf
+│           │   └── is101_td4.pdf
+│           ├── td1.html
+│           ├── td2.html
+│           ├── td3.html
+│           └── td4.html
+└── tree.txt
+
+50 directories, 249 files
