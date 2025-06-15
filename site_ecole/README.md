@@ -7,6 +7,9 @@ Pour l'instant, aucun pdf n'est disponible par crainte de violer les droits d'au
 ## utilisation
 
 Il suffit de taper si on est sur linux:
+
 firefox site_ecole/main.html &
+
 En ce qui me concerne afin de me faciliter la vie, j'ai ajouté cette alias dans mon .bashrc:
+
 alias site='firefox ~/bash/sites_html/etu/main.html &'
